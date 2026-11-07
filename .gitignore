@@ -1,0 +1,8 @@
+resultados/
+*.log
+*.jtl
+!evidencias/manual-01/manual-01.jtl
+*.jmx.bak
+*.tmp.html
+.DS_Store
+Thumbs.db
